@@ -1,0 +1,17 @@
+**/.pytest_cache/
+**/.DS_Store
+**/package-lock.json
+**/yarn.lock
+**/node-modules/
+**/cache/
+
+node_modules
+**/.env
+**/coverage
+**/coverage.json
+**/typechain
+**/typechain-types
+
+#Hardhat files
+**/cache/
+**/artifacts/
