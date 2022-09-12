@@ -1,0 +1,15 @@
+{
+  "name": "part-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thirdweb-dev/cli": "^0.6.15"
+  }
+}
